@@ -1,0 +1,17 @@
+>>> Warning 203 "C:\Program Files\PICC\Drivers\pic18_usb.h" Line 523(1,1): Condition always TRUE
+*** Error 18 "C:\Users\Fran\Desktop\AureBot\lib\bootloader\usb_cdc.h" Line 181(10,109): File can not be opened
+    Not in local "..\lib\bootloader\usb_desc_cdc.h"
+*** Error 119 "C:\Program Files\PICC\Drivers\usb.c" Line 186(10,44):  You must include USB descriptors.
+*** Error 12 "C:\Program Files\PICC\Drivers\usb.c" Line 196(20,42): Undefined identifier   USB_MAX_NUM_INTERFACES
+*** Error 43 "C:\Program Files\PICC\Drivers\usb.c" Line 196(43,44): Expecting a declaration
+*** Error 12 "C:\Program Files\PICC\Drivers\usb.c" Line 353(18,40): Undefined identifier   USB_MAX_NUM_INTERFACES
+*** Error 76 "C:\Program Files\PICC\Drivers\usb.c" Line 353(44,45): Expect ;
+*** Error 12 "C:\Program Files\PICC\Drivers\usb.c" Line 642(57,75): Undefined identifier   USB_NUM_INTERFACES
+*** Error 51 "C:\Program Files\PICC\Drivers\usb.c" Line 647(13,17): A numeric expression must appear here
+*** Error 12 "C:\Program Files\PICC\Drivers\usb.c" Line 798(29,49): Undefined identifier   USB_TOTAL_CONFIG_LEN
+*** Error 12 "C:\Program Files\PICC\Drivers\usb.c" Line 803(29,51): Undefined identifier   USB_STRING_DESC_OFFSET
+*** Error 12 "C:\Program Files\PICC\Drivers\usb.c" Line 804(29,44): Undefined identifier   USB_STRING_DESC
+*** Error 12 "C:\Program Files\PICC\Drivers\usb.c" Line 882(15,30): Undefined identifier   USB_CONFIG_DESC
+*** Error 12 "C:\Program Files\PICC\Drivers\usb.c" Line 892(15,30): Undefined identifier   USB_STRING_DESC
+*** Error 12 "C:\Program Files\PICC\Drivers\usb.c" Line 896(15,30): Undefined identifier   USB_DEVICE_DESC
+      14 Errors,  1 Warnings.

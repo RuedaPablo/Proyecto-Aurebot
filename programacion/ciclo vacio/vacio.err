@@ -1,0 +1,7 @@
+>>> Warning 203 "C:\Archivos de programa\PICC\drivers\pic18_usb.h" Line 523(1,1): Condition always TRUE
+>>> Warning 203 "vacio.c" Line 64(1,1): Condition always TRUE
+>>> Warning 203 "vacio.c" Line 85(1,1): Condition always TRUE
+>>> Warning 216 "vacio.c" Line 116(0,1): Interrupts disabled during call to prevent re-entrancy:  (usb_token_reset)
+>>> Warning 202 "C:\Documents and Settings\lcef-itt\Escritorio\Practica 11 g7p2\lib\bootloader\usb_desc_cdc.h" Line 154(16,37): Variable never used:   USB_CLASS_DESCRIPTORS
+      Memory usage:   ROM=16%      RAM=56% - 58%
+      0 Errors,  5 Warnings.

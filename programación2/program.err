@@ -1,0 +1,17 @@
+>>> Warning 203 "C:\Program Files (x86)\PICC\drivers\pic18_usb.c" Line 531(1,1): Condition always TRUE
+>>> Warning 203 "G:\Nueva carpeta\lib\servos.h" Line 112(1,1): Condition always TRUE
+>>> Warning 203 "G:\Nueva carpeta\lib\bumper.h" Line 10(1,1): Condition always TRUE
+>>> Warning 216 "program.c" Line 277(0,1): Interrupts disabled during call to prevent re-entrancy:  (usb_token_reset)
+>>> Warning 202 "C:\Program Files (x86)\PICC\drivers\TONES.C" Line 23(12,18): Variable never used:   C_NOTE
+>>> Warning 202 "C:\Program Files (x86)\PICC\drivers\TONES.C" Line 24(12,19): Variable never used:   Db_NOTE
+>>> Warning 202 "C:\Program Files (x86)\PICC\drivers\TONES.C" Line 25(12,18): Variable never used:   D_NOTE
+>>> Warning 202 "C:\Program Files (x86)\PICC\drivers\TONES.C" Line 26(12,19): Variable never used:   Eb_NOTE
+>>> Warning 202 "C:\Program Files (x86)\PICC\drivers\TONES.C" Line 28(12,18): Variable never used:   F_NOTE
+>>> Warning 202 "C:\Program Files (x86)\PICC\drivers\TONES.C" Line 29(12,19): Variable never used:   Gb_NOTE
+>>> Warning 202 "C:\Program Files (x86)\PICC\drivers\TONES.C" Line 30(12,18): Variable never used:   G_NOTE
+>>> Warning 202 "C:\Program Files (x86)\PICC\drivers\TONES.C" Line 31(12,19): Variable never used:   Ab_NOTE
+>>> Warning 202 "C:\Program Files (x86)\PICC\drivers\TONES.C" Line 32(12,18): Variable never used:   A_NOTE
+>>> Warning 202 "C:\Program Files (x86)\PICC\drivers\TONES.C" Line 33(12,19): Variable never used:   Bb_NOTE
+>>> Warning 202 "C:\Program Files (x86)\PICC\drivers\TONES.C" Line 34(12,18): Variable never used:   B_NOTE
+      Memory usage:   ROM=29%      RAM=24% - 27%
+      0 Errors,  15 Warnings.
