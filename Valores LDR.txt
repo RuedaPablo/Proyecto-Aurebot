@@ -1,0 +1,4 @@
+LDR Izquierda oscuridad 35k ohm
+LDR izquierda ambiente 4 k ohm
+LDR derecha oscuridad 50k ohm
+LDR derecha ambiente 4k
